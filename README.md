@@ -1,4 +1,4 @@
-Library Management System
+Library Management System (Python + SQLite)
 
 Python + SQLite console application implementing:
 - Admin & User roles
