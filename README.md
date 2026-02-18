@@ -106,3 +106,9 @@ Return completed
 ## Author
 
 Abhay Yadav
+
+## System Execution Screenshot
+
+Console execution showing login, membership creation, and book issue workflow.
+
+![Library System Output](system_output.png)
