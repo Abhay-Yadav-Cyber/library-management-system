@@ -70,6 +70,39 @@ Console Interface
 
 ---
 
+## Sample Execution
+Login
+User Name: admin
+Password: *****
+
+ADMIN MENU
+1 Add Book/Movie
+2 Add Membership
+3 Update Membership
+4 User Management
+5 Issue Book
+6 Return Book
+7 Reports
+8 Logout
+
+Add Membership
+Member Name: Rahul Sharma
+Duration (6m/1y/2y) [default 6m]:
+Membership created
+
+Issue Book
+Enter title: Python
+Issue Date: 2026-02-18
+Return Date: 2026-03-05
+Book issued successfully
+
+Return Book
+Issue ID: 1
+Fine: 0
+Return completed
+
+---
+
 ## Author
 
 Abhay Yadav
